@@ -1,14 +1,14 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="800" height="85" viewBox="0 0 800 85">
-  <rect width="800" height="85" rx="8" fill="#684C5C"/>
+     width="800" height="80" viewBox="0 0 800 80">
+  <rect width="800" height="80" rx="8" fill="#684C5C"/>
 
   <g fill="#F4EBDD" text-anchor="middle"
      font-family="Arial, Helvetica, sans-serif">
-    <text x="400" y="24" font-size="21" font-weight="700">
+    <text x="400" y="34" font-size="23" font-weight="700">
       ⚡ Powered by curiosity, cortado, cheesecake, appreciation, and
     </text>
-    <text x="400" y="45" font-size="21" font-weight="700">
+    <text x="400" y="60" font-size="23" font-weight="700">
       an unreasonable determination to solve problems. ⚡
     </text>
   </g>
