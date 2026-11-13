@@ -1,1 +1,41 @@
 
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="300" viewBox="0 0 800 300"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Sahar Mohamed — Lead Data Analyst</title>
+  <desc id="desc">
+    Data Quality, Performance Measurement, Applied Machine Learning,
+    and Customer Experience.
+  </desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121120"/>
+      <stop offset="100%" stop-color="#503A49"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="300" rx="16" fill="url(#bg)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     text-anchor="middle">
+    <text x="400" y="103" fill="#F4EBDD"
+          font-size="64" font-weight="700" letter-spacing="-1">
+      Sahar Mohamed
+    </text>
+
+    <text x="400" y="157" fill="#E5D8CC"
+          font-size="38" font-weight="400">
+      Lead Data Analyst
+    </text>
+
+    <g fill="#CFC3BE" font-size="25">
+      <text x="400" y="212">
+        Data Quality · Performance Measurement
+      </text>
+      <text x="400" y="248">
+        Applied Machine Learning · Customer Experience
+      </text>
+    </g>
+  </g>
+</svg>
