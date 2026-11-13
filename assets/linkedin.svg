@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="104" height="29" viewBox="0 0 104 29">
+  <rect width="104" height="29" rx="5" fill="#684C5C"/>
+
+  <rect x="12" y="6.5" width="16" height="16" rx="2" fill="#F4EBDD"/>
+  <text x="20" y="19.5" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12" font-weight="700" fill="#684C5C">in</text>
+
+  <text x="36" y="19.5"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14" font-weight="700" fill="#F4EBDD">LinkedIn</text>
+</svg>
