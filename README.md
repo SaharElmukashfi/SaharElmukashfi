@@ -10,7 +10,7 @@
   &nbsp;
   <a href="https://medium.com/@saharmukashfi"><img src="assets/medium.svg" alt="Medium" width="104" height="29"></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SaharElmukashfi-v3&amp;label=Views&amp;color=684C5C&amp;style=flat" alt="Profile views" width="104" height="29">
+  <img src="https://komarev.com/ghpvc/?username=SaharElmukashfi-v&amp;label=Views&amp;color=684C5C&amp;style=flat" alt="Profile views" width="104" height="29">
 </p>
 
 
