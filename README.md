@@ -111,6 +111,6 @@ I also contribute to education and community initiatives, including teaching mat
 <p align="center">
   <a href="https://www.linkedin.com/in/saharelmk/">
     <img src="assets/sign-off.svg" width="800"
-         alt="Powered by curiosity, cortado, cheesecake, appreciation, and an unreasonable determination to solve problems. Let’s connect on LinkedIn.">
+         alt="Powered by curiosity, cortado, cheesecake, appreciation, and an unreasonable determination to solve problems. Whant to connect? here is my LinkedIn.">
   </a>
 </p>
