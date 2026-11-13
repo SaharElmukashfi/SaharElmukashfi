@@ -1,4 +1,8 @@
-![Sahar Mohamed — Lead Data Analyst | Data Quality | Performance Measurements | Applied Machine Learning | Customer Experience](assets/profile-banner.svg)
+
+<p align="center">
+  <img src="assets/profile-banner.svg" width="800"
+       alt="Sahar Mohamed — Lead Data Analyst | Data Quality | Performance Measurements | Applied Machine Learning | Customer Experience">
+</p>
 
 
 <p align="center">
@@ -17,8 +21,8 @@ Based in Dubai, UAE, I bring 9+ years of experience across government performanc
 - **32 UAE government entities**: Coordinated data assessment, API integration, and validation with entity teams, PMO managers, and backend engineers.
 - **99% data accuracy**: Helped achieve this through API validation pipelines, issue resolution, and weekly quality scoring.
 - **96% anomaly-detection accuracy**: Developed a model to identify irregularities in the data.
-- **7% improvement in customer retention**: Supported retention efforts at MTN Sudan through customer analysis and machine-learning-driven targeting.
-- **5% subscription growth**: Supported growth through basket analysis and personalized product recommendations.
+- **7% improvement in customer retention**: Supported retention efforts through customer analysis and ML driven targeting at at MTN.
+- **5% subscription growth**: Supported bse growth through basket analysis and personalized product recommendations.
 
 
 ## My toolkit
@@ -51,7 +55,7 @@ Based in Dubai, UAE, I bring 9+ years of experience across government performanc
   
 ## Experience
 
-### Lead Data Analyst @ UAE Prime Minister’s Office via Kalvad DMCC**  
+### Lead Data Analyst @ UAE Prime Minister’s Office, Kalvad DMCC
 Data, Studies and Performance Assessment Development Department  
 *October 2023–Present*
 
@@ -90,7 +94,7 @@ I also contribute to education and community initiatives, including teaching mat
 
 **Languages:** Arabic & English
 
-### The real me
+## The real me
 
 **Analytical brain, playful soul.** I take my work seriously, but life? Not always.
 
@@ -106,8 +110,7 @@ I also contribute to education and community initiatives, including teaching mat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saharelmk/">
-    <img src="assets/sign-off.svg"
-         width="430"
+    <img src="assets/sign-off.svg" width="800"
          alt="Powered by curiosity, cortado, cheesecake, appreciation, and an unreasonable determination to solve problems. Let’s connect on LinkedIn.">
   </a>
 </p>
